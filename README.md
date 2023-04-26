@@ -24,4 +24,4 @@ Interested in learning new technologies and improving my development skills.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRigon&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![snake gif](https://github.com/MaikonPanazzolo/MaikonPanazzolo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VictorRigon/victorrigon/blob/output/github-contribution-grid-snake.svg)
