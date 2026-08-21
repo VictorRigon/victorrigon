@@ -1,12 +1,13 @@
-# Olá, eu sou o Victor 👋
+# Olá, eu sou o Victor Rigon 👋
 
 Desenvolvedor focado em **C#** e **Delphi**, com experiência em sistemas de gestão empresarial (ERP) e aplicações desktop.
 
 ## 🚀 Sobre mim
 
 - 💻 Trabalho principalmente com **C# (.NET Framework / WinForms)** e **Delphi**
-- 🏢 Desenvolvimento de módulos para sistemas ERP (fiscal, vendas, ordens de serviço, etc.)
+- 🏢 Atuo na **SGBr Sistemas**, desenvolvendo módulos para sistemas ERP (fiscal, vendas, ordens de serviço, etc.)
 - 🔧 Experiência com bancos de dados relacionais e integrações fiscais (NFC-e, CT-e, SAT)
+- 📍 Concórdia - SC
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 
 ## 🛠️ Tecnologias
@@ -20,10 +21,12 @@ Desenvolvedor focado em **C#** e **Delphi**, com experiência em sistemas de ges
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorRigon&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRigon&layout=compact)
 
 ## 📫 Como me encontrar
 
-- 📧 Email: victor.rigon7@gmail.com
-- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/victor-rigon-b9440035a/)
+- 🐙 GitHub: [@VictorRigon](https://github.com/VictorRigon)
+
+---
+⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
